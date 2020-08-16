@@ -28,7 +28,22 @@ Hello World
 - 引用数据类型
 
 ## Java 面向对象
-
+- 继承
+    - extends    
+    - implements  interface 
+    - instanceof 运算符来检验
+- 重写(Override)与重载(Overload)
+    - 方法重写的规则
+    - Super关键字的使用
+    - 重载规则
+    - 重写与重载之间的区别
+- 多态
+- 抽象类 abstract class
+    - extends     
+    - 抽象方法
+- 封装 Encapsulation
+- 接口 Interface
+- 包(package)
 
 ## Java 高级教程
 
