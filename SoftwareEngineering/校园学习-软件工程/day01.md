@@ -54,3 +54,8 @@
 
 
 [3.3基本路径测试](https://www.bilibili.com/video/BV1Q741157ve?p=18)
+ - 区域数目
+ - 边数-节点+2
+ - 判断节点+1
+
+[3.4单元测试工具](https://www.bilibili.com/video/BV1Q741157ve?p=19)
