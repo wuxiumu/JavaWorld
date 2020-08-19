@@ -36,5 +36,11 @@ mysql> SELECT name, SUM(singin) as singin_count FROM  employee_tbl GROUP BY name
 
 mysql> SELECT coalesce(name, '总数'), SUM(singin) as singin_count FROM  employee_tbl GROUP BY name WITH ROLLUP;
 
+INSERT INTO table_name ( field1, field2,...fieldN )
+                       VALUES
+                       ( value1, value2,...valueN );
+INSERT INTO 'sys_grouppriv'  ('group','module',mo'dule) VALUES (7,'wipe','checkpdf')
+INSERT INTO `reps_ranzhi`.`sys_grouppriv`(`group`, `module`, `method`) VALUES (1, 'wipe', 'checkpdf')
+ 
 ```
 
