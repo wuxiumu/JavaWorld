@@ -12,9 +12,6 @@
 
 [4.4.1 自我介绍](https://www.bilibili.com/video/BV1Q741157ve?p=23)
 
+[4.4.2 开发过程一](https://www.bilibili.com/video/BV1Q741157ve?p=24)
 
-
-[[4.4.2 开发过程一](https://www.bilibili.com/video/BV1Q741157ve?p=24)
-
-
-[[4.4.3 开发过程二](https://www.bilibili.com/video/BV1Q741157ve?p=25)
+[4.4.3 开发过程二](https://www.bilibili.com/video/BV1Q741157ve?p=25)
