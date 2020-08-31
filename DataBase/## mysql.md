@@ -16,6 +16,7 @@ CREATE TABLE aaa(i int)ENGINE=InnoDB
 修改表存储引擎
 ALERT TABLE aaa ENGINE=MyISAM
 
+
 ```
 
 ## Mysql性能优化二：索引优化                
